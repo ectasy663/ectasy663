@@ -2,7 +2,7 @@
 
 🌱 Eager CSE student @ JIET  with a love for Web Development (React, JS, Python) continuous learning. <br/>
 Experienced in team collaboration and building projects from scratch. <br/>
-Open to collaborating! 👨‍👩‍👧‍👦 [Linkedin] https://www.linkedin.com/in/naman-singh-panwar7/ <br/>
+Open to collaborating! 👨‍👩‍👧‍👦
 
 
 # 💻 Tech Stack:

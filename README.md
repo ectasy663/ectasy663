@@ -180,17 +180,6 @@ philosophy: |
 
 ---
 
-## 🎵 // CODING SOUNDTRACK
-
-<div align="center">
-
-[![Spotify](https://spotify-github-readme-cy4shani.vercel.app/api/spotify)](https://open.spotify.com/user/31ijrgnwe247mpsfycsz5zgugc3u?si=8ecb82223221486a)
-
-<sub>🎧 Currently vibing to some code-worthy beats</sub>
-
-</div>
-
----
 
 ## 💭 // DEV WISDOM
 

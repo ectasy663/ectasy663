@@ -138,9 +138,6 @@ philosophy: |
    Code with purpose, build with passion! 💙"
 ```
 
-</div>
-
----
 
 ## 📊 // GITHUB ANALYTICS
 

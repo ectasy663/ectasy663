@@ -2,9 +2,15 @@
 
 # 👋 Hey there, I'm Naman Singh Panwar!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+React+Native+%7C+AI%2FML+Enthusiast;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%40+GyanNetra+%F0%9F%9A%80;Full+Stack+Developer+%7C+Next.js+%7C+Python;React+%7C+React+Native+%7C+AI%2FML+Enthusiast;3D+Web+Graphics+%26+Multi-Model+Agents+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br/>
+
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-GyanNetra-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Research](https://img.shields.io/badge/Research%20Intern-DRDO-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Hackathons](https://img.shields.io/badge/Hackathons-International%20Winner-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -17,41 +23,79 @@ class Developer {
     constructor() {
         this.name = "Naman Singh Panwar";
         this.location = "Jodhpur, Rajasthan 📍";
-        this.education = "CSE @ JIET 🎓";
-        this.currentlyWorking = ["Full Stack Apps", "Mobile Development", "AI/ML Models"];
+        this.education = "B.Tech CSE @ JIET University, Class of 2027 🎓";
+        this.currentRole = "AI Engineer @ GyanNetra 🤖";
+        this.leadership = ["PR Lead @ DSC-JU", "Core Team, Sochbusters 🏆"];
+        this.currentlyWorking = [
+            "Production AI Systems",
+            "Full Stack Apps (Next.js)",
+            "3D Web Experiences",
+            "Multi-Model AI Agents"
+        ];
         this.lifePhilosophy = "Code. Learn. Iterate. Repeat. 🔁";
     }
 
     getSkills() {
         return {
-            frontend: ["React", "TailwindCSS", "Vite", "HTML5", "CSS3"],
+            frontend: ["React", "Next.js", "TailwindCSS", "Vite", "HTML5", "CSS3", "Three.js"],
             mobile: ["React Native"],
-            backend: ["Supabase", "Node.js", "REST APIs"],
-            languages: ["JavaScript", "Python", "C++", "Java"],
-            aiml: ["Machine Learning", "Data Science", "AI Models"],
+            backend: ["Node.js", "FastAPI", "REST APIs", "Supabase"],
+            databases: ["PostgreSQL", "Prisma", "Supabase"],
+            languages: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
+            aiml: ["Machine Learning", "Deep Learning", "Computer Vision (YOLOv8)", "MediaPipe", "Multi-Model Agents"],
             design: ["Figma", "Canva", "UI/UX"],
-            tools: ["Git", "GitHub", "Netlify", "Vercel", "NPM"]
+            tools: ["Git", "GitHub", "Netlify", "Vercel", "Cursor", "Claude Code CLI", "NPM"]
+        };
+    }
+
+    getCareerMatrix() {
+        return {
+            role: "AI Engineer-1 @ GyanNetra",
+            research: "Research Intern @ DRDO — Deep Learning",
+            leadership: "PR Lead @ DSC-JU",
+            teamLead: "Core Team, Sochbusters — International Hackathon Champions 🌍",
+            note: "Shipping production AI deployments while still in my final year 🎓"
         };
     }
 
     getCurrentMission() {
         return [
-            "🎯 Mastering full-stack development with modern frameworks",
+            "🎯 Scaling Next.js apps with SSR & performance-first architecture",
+            "🤖 Building LLM-driven, multi-model AI agents in production",
+            "🎨 Crafting real-time, cinematic 3D web experiences with Three.js",
             "📱 Creating seamless mobile experiences with React Native",
-            "🤖 Exploring AI/ML to build intelligent applications",
             "🚀 Contributing to open-source and collaborative projects",
             "💡 Solving real-world problems through innovative code"
         ];
     }
 
     getFutureGoals() {
-        return "Building production-ready apps that make a difference! 🌟";
+        return "Building production-ready, AI-powered platforms that make a difference! 🌟";
     }
 }
 
 const naman = new Developer();
 console.log(naman.getFutureGoals());
 ```
+
+---
+
+## 🗂️ // ARCHITECTURE & EXPERIENCE LOG
+
+<details>
+<summary><b>🛠️ Click to expand my build timeline</b></summary>
+<br/>
+
+| Timeline | Milestone |
+|---|---|
+| **May 2026 – Present** | 🤖 **AI Engineer @ GyanNetra** — shipping production AI deployments |
+| **Apr 2026** | ⚙️ Custom VPS migrations & CMS deployments for client projects |
+| **Jan 2026** | 💻 Frontend Development Internship (2 months) |
+| **Sep 2025** | 🔬 Research Intern @ **DRDO** — Deep Learning research |
+| **Q3 2025** | 🏆 Competed in **Hackito 4.0** & **Innov8** hackathons |
+| **2025 – Present** | 🌍 Core team @ **Sochbusters** — international hackathon-winning team; built **VisionBuild AI** (YOLOv8, FastAPI, React, Three.js) |
+
+</details>
 
 <div align="center">
 
@@ -63,7 +107,7 @@ console.log(naman.getFutureGoals());
 <a href="https://www.linkedin.com/in/naman-singh-panwar7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://namansinghpanwar.vercel.app/" target="_blank">
+<a href="https://namansinghpanwar.in/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=00D9FF" alt="Portfolio" />
 </a>
 <a href="mailto:namansingh4680@gmail.com">
@@ -83,22 +127,28 @@ console.log(naman.getFutureGoals());
 
 ### 💻 Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,c,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c,latex&theme=dark" />
 </p>
 
 ### 🎨 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,prisma,supabase,npm&theme=dark" />
 </p>
 
 ### 🚀 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,canva&theme=dark" />
+</p>
+
+### 🧠 AI Workflow
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&labelColor=0D1117&color=00D9FF" />
+  <img src="https://img.shields.io/badge/Claude%20Code%20CLI-CC785C?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 </div>
@@ -110,24 +160,25 @@ console.log(naman.getFutureGoals());
 <div align="center">
 
 ```yaml
-status: "Building & Learning 🚀"
+status: "Compiling Next-Gen Platforms 🚀"
 
 completed:
-  - ✅ Web Development Mastery (React, JavaScript, Modern CSS)
+  - ✅ Web Development Mastery (React, Next.js, Modern CSS)
   - ✅ Mobile App Development (React Native)
-  - ✅ AI/ML Fundamentals & Applications
-  - ✅ Backend Services & Database Management
-  - ✅ Full-Stack Project Deployment
+  - ✅ AI/ML Fundamentals & Production Deployments
+  - ✅ Backend Services & Database Management (PostgreSQL, Prisma)
+  - ✅ Full-Stack Project Deployment & VPS Migrations
 
 in_progress:
+  - 🔄 Scaling Next.js SSR for production workloads
+  - 🔄 Building LLM-driven, multi-model AI agent systems
+  - 🔄 Real-time, cinematic 3D web visualizations (Three.js)
   - 🔄 Advanced React Patterns & Performance Optimization
-  - 🔄 Scaling AI/ML Models for Production
-  - 🔄 Building Cross-Platform Mobile Apps
   - 🔄 Contributing to Open Source Projects
   - 🔄 Exploring Cloud Architecture & DevOps
 
 next_level:
-  - 🎯 Senior Full-Stack Developer
+  - 🎯 Senior AI / Full-Stack Engineer
   - 🎯 AI-Powered Application Architect
   - 🎯 Open Source Contributor & Maintainer
   - 🎯 Tech Community Leader
@@ -138,6 +189,7 @@ philosophy: |
    Code with purpose, build with passion! 💙"
 ```
 
+</div>
 
 ## 📊 // GITHUB ANALYTICS
 
@@ -212,13 +264,19 @@ interface DeveloperQuirks {
     favoriteSnack: string;
     codingHours: string;
     motivation: string;
+    sidekick: string;
+    playlist: string;
+    weekendMode: string;
 }
 
 const myQuirks: DeveloperQuirks = {
     debugMethod: "console.log() is my best friend 🐛",
-    favoriteSnack: "Coffee ☕ (basically my runtime dependency)",
+    favoriteSnack: "Momos & Coffee ☕ (basically my runtime dependency)",
     codingHours: "Anytime is coding time 🌙",
-    motivation: "Building cool stuff & learning every day! 🚀"
+    motivation: "Building cool stuff & learning every day! 🚀",
+    sidekick: "Bruno the dog 🐶 (my QA tester)",
+    playlist: "Alan Walker & Taylor Swift on repeat 🎧",
+    weekendMode: "Mountain treks to reset the mind ⛰️"
 };
 ```
 
@@ -242,7 +300,7 @@ const myQuirks: DeveloperQuirks = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
-**💙 Crafted with passion by [Naman Singh Panwar](https://namansinghpanwar.vercel.app/)**
+**💙 Crafted with passion by [Naman Singh Panwar](https://namansinghpanwar.in/)**
 
 <sub>⚡ "Code is poetry written in logic" ⚡</sub>
 
